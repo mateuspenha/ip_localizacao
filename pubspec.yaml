@@ -2,8 +2,8 @@ name: ip_localizacao
 description: Uma biblioteca para consulta da localização do IP externo para desenvolvedores Dart (Console, Web e Flutter).
 version: 1.0.0
 homepage: https://debugging.com.br/
-repository: https://github.com/mateuspenha/ip_location
-issue_tracker: https://github.com/mateuspenha/ip_location/issues
+repository: https://github.com/mateuspenha/ip_localizacao
+issue_tracker: https://github.com/mateuspenha/ip_localizacao/issues
 author: Mateus Penha <mateuspenha@gmail.com>
 
 environment:
